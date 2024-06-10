@@ -1,4 +1,4 @@
-<?php
+<?py
 //الملف كتابة ابو ايان وتم تعديلة من المطور ميرو @GJEGG
 
 $API_KEY = "6499198312:AAG1VAJHQ9pf0XD7UHA2Em5zXhisPxkgwe8" ;
